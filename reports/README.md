@@ -4,6 +4,7 @@
 
 ## Included Report
 
+- `mfda_report.pdf`: MFDA 남성 패션 데이터 분석 종합 리포트
 - `lmc_trend_analysis_report.pdf`: LMC 브랜드 트렌드 분석 리포트
 
 ## Portfolio Use
