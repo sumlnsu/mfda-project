@@ -4,9 +4,6 @@
 
 MFDA는 남성 패션 커뮤니티 게시글 데이터를 기반으로 브랜드, 아이템, 스타일 키워드의 변화와 커뮤니티별 차이를 분석하고, 그 결과를 Streamlit 대시보드와 브랜드 리포트로 확장한 데이터 분석 포트폴리오입니다.
 
-> 기존 운영 URL: [mftaplatform.streamlit.app](https://mftaplatform.streamlit.app/)
-> 새 `mfda-project` 레포 기준으로 Streamlit Cloud 재배포 후 URL을 갱신할 예정입니다.
-
 ## Project Scope
 
 - 분석 대상: 5개 남성 패션 커뮤니티
@@ -89,4 +86,4 @@ Streamlit Cloud 배포 설정:
 
 - 공개 레포에는 원본 수집 데이터가 아닌 분석 및 대시보드 산출물을 중심으로 포함했습니다.
 - 대시보드 내 일부 시각화는 Tableau Public 임베드를 사용합니다.
-- 기존 `mfta`와 `Mens-Fashion-Data-Analysis-Project` 레포는 이 레포로 통합 후 archive 또는 redirect 처리하는 것을 권장합니다.
+- 기존 `mfta`와 `Mens-Fashion-Data-Analysis-Project`의 주요 산출물은 이 레포로 통합했습니다.
