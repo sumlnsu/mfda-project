@@ -86,4 +86,3 @@ Streamlit Cloud 배포 설정:
 
 - 공개 레포에는 원본 수집 데이터가 아닌 분석 및 대시보드 산출물을 중심으로 포함했습니다.
 - 대시보드 내 일부 시각화는 Tableau Public 임베드를 사용합니다.
-- 기존 `mfta`와 `Mens-Fashion-Data-Analysis-Project`의 주요 산출물은 이 레포로 통합했습니다.
